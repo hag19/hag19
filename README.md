@@ -1,5 +1,5 @@
 <h1 align="center">Ahmad Swedan</h1>
-<p align="center"><b>DevSecOps Engineer</b> · Cloud-Native Security · Infrastructure as Code</p>
+<p align="center"><b>DevOps &amp; DevSecOps Engineer</b> · Cloud-Native Security · Infrastructure as Code</p>
 
 <p align="center">
   <a href="mailto:swedam324@gmail.com"><img src="https://img.shields.io/badge/Email-swedam324@gmail.com-0f3460?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
@@ -12,9 +12,9 @@
 
 ## About
 
-DevSecOps engineer focused on **shifting security left** — embedding SCA/SAST into CI/CD, hardening containers and Kubernetes, and building Zero-Trust infrastructure entirely as code. Currently at **Nokia (Paris-Saclay)**, with a bare-metal HA Kubernetes home lab and a Rust application-sandbox project on the side. BSc in Systems, Networks & Security at ESGI, Paris.
+I'm equally at home in **DevOps and DevSecOps** — I genuinely love both. Building the pipelines, automating infrastructure, and shipping fast on one side; embedding security into every stage on the other. I shift security left (SCA/SAST in CI/CD), harden containers and Kubernetes, and build Zero-Trust infrastructure entirely as code. Currently at **Nokia (Paris-Saclay)**, with a bare-metal HA Kubernetes home lab and a Rust application-sandbox project on the side. BSc in Systems, Networks & Security at ESGI, Paris.
 
-I like the seam where **security meets infrastructure**: making the secure path the default one, and proving it with reproducible, declarative systems.
+For me DevOps and DevSecOps aren't separate tracks — they're the same craft: making the **fast path and the secure path the same path**, and proving it with reproducible, declarative systems.
 
 ---
 
@@ -49,7 +49,7 @@ Production bare-metal, multi-rack infrastructure for the school.
 - Identity: **authentik** OIDC IdP + **Netbird** mesh VPN
 - Security: **Wazuh** SIEM + Grafana/Loki/Alertmanager — zero public exposure
 
-### 🦀 Hagbox — Linux Application Sandbox
+### 🦀 [Hajiz](https://github.com/hag19/hajiz) — Linux Application Sandbox
 - Rust sandbox using Linux **namespaces, seccomp-BPF, Landlock LSM, cgroups v2**
 - Default-deny with an audit mode (strace/ptrace) that auto-generates TOML security profiles
 
@@ -57,7 +57,7 @@ Production bare-metal, multi-rack infrastructure for the school.
 - **Evil Twin** lab: rogue AP, RADIUS bypass, credential capture — full written report
 - **Binary exploitation**: Ghidra, edb, shellcode injection, canary bypass (13-page report)
 
-> 📌 More on my pinned repos: [`infrapilot`](https://github.com/hag19/infrapilot) · [`proxmox-k8s-ha`](https://github.com/hag19/proxmox-k8s-ha) · [`wifi-replication`](https://github.com/hag19/wifi-replication) · [`cvec_report`](https://github.com/hag19/cvec_report)
+> 📌 More on my pinned repos: [`hajiz`](https://github.com/hag19/hajiz) · [`infrapilot`](https://github.com/hag19/infrapilot) · [`proxmox-k8s-ha`](https://github.com/hag19/proxmox-k8s-ha) · [`wifi-replication`](https://github.com/hag19/wifi-replication) · [`cvec_report`](https://github.com/hag19/cvec_report)
 
 ---
 
@@ -104,4 +104,4 @@ Production bare-metal, multi-rack infrastructure for the school.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hag19&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" height="160">
 </p>
 
-<p align="center"><i>📫 Open to DevSecOps / Cloud Security / Platform Engineering roles — reach me at <a href="mailto:swedam324@gmail.com">swedam324@gmail.com</a></i></p>
+<p align="center"><i>📫 Open to DevOps / DevSecOps / Cloud / Platform Engineering roles — reach me at <a href="mailto:swedam324@gmail.com">swedam324@gmail.com</a></i></p>
